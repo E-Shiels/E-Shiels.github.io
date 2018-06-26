@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Putting It Together
 header-img: img/home-bg.png
 email: ericshiels2@gmail.com
 copyright_name: E-Shiels
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey as I try to combine everything I know about programming.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  E-Shiels
