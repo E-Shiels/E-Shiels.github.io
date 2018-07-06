@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "My Journey to Development""
-date:       2018-07-06 00:02:14 +0000
+title:      "My Journey to Development"
+date:       2018-07-05 20:02:15 -0400
 permalink:  my_journey_to_development
 ---
 
