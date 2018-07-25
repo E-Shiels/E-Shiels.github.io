@@ -9,7 +9,7 @@ permalink:  useful_and_interesting_array_methods
 I recently decided to read through the documentation for the Ruby Array class. The Ruby documentation lists 98 instance methods, so here, I'll discuss some of the most interesting and unique ones. You can check out the official documentation [here.](https://docs.ruby-lang.org/en/2.0.0/Array.html)
 
 ### clear
-array.clear removes all elements from th array.
+array.clear removes all elements from the array.
 ```
 a = [1,2,3,4,5]
 a.clear     => [ ]
