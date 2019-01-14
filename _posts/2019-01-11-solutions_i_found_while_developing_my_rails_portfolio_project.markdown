@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Solutions I Found While Developing My Rails Portfolio Project"
+title:      "Solutions I Found While I Developed My Rails Portfolio Project"
 date:       2019-01-11 15:51:11 -0500
 permalink:  solutions_i_found_while_developing_my_rails_portfolio_project
 ---
