@@ -15,4 +15,4 @@ The first problem I ran into was that error fields were messing up the design of
 
 The second problem I ran into was with SSL certificate verification. 3rd-party authentication (with GitHub) requires you to use an SSL certificate, and no matter how hard I tried, and how long I Googled, I couldn't find a solution. So, I decided to bypass it entirely with this line of code I placed into the `application.rb` file: `OpenSSL::SSL::VERIFY_PEER = OpenSSL::SSL::VERIFY_NONE`. I think I found that solution [here.](https://stackoverflow.com/questions/1113422/how-to-bypass-ssl-certificate-verification-in-open-uri) It tells OpenSSL to not verify that a certificate exists. This is VERY DANGEROUS and should not be used in production, but it works fine for testing.
 
-I hope that these two solutions might help you as you build your Rails project. Thanks for reading.
+I hope that these solutions will help you as you build your Rails project. Thanks for reading.
