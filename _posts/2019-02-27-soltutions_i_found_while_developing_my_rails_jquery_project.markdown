@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Soltutions I Found While Developing My Rails/jQuery Project"
+title:      "Solutions I Found While Developing My Rails/jQuery Project"
 date:       2019-02-27 13:31:55 -0500
 permalink:  soltutions_i_found_while_developing_my_rails_jquery_project
 ---
