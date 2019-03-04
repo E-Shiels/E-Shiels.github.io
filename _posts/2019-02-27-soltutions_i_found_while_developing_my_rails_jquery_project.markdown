@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Soltutions I Found While Developing My Rails/jQuery Project"
-date:       2019-02-27 18:31:54 +0000
+date:       2019-02-27 13:31:55 -0500
 permalink:  soltutions_i_found_while_developing_my_rails_jquery_project
 ---
 
@@ -14,8 +14,8 @@ Later in the proiect, I would want to find a way to limit the JavaScript to spec
 
 The last thing I fixed was `setInterval()`. In my project, I wanted to run a piece of code after a set interval. But `setInterval() ` waits the interval length when it is first invoked. This means that I would have to wait 10 second from invoking it to running the code. Instead I built setIntervalImmediately() which is a simple function that runs the function and then sets the interval to run it again.
 
-`function setIntervalImmediately(function, interval) {
-  function();
+`function setIntervalImmediately(func, interval) {
+  func();
   return setInterval(function, interval);
 }`
 
