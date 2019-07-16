@@ -23,7 +23,7 @@ I hope that this explains why setState() should always be used instead of direct
 
 
 
-### Sources
+### **Sources**
 https://reactjs.org/docs/react-component.html
 
 https://reactjs.org/docs/state-and-lifecycle.html
