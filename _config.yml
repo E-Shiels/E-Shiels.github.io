@@ -1,11 +1,11 @@
 # Site settings
 author: Eric Shiels
-title: Tech Odyssey
+title: Eric Shiels
 header-img: img/home-bg.png
 email: ericshiels2@gmail.com
 copyright_name: Eric Shiels
 description: > # this means to ignore newlines until "baseurl:"
-  My journey to becoming a full-stack web developer.
+  Full-Stack Web Developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  E-Shiels
