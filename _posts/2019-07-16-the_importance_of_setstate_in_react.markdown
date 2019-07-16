@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Importance of setState() in React"
-date:       2019-07-16 20:34:18 +0000
+date:       2019-07-16 16:34:19 -0400
 permalink:  the_importance_of_setstate_in_react
 ---
 
@@ -23,7 +23,7 @@ I hope that this explains why setState() should always be used instead of direct
 
 
 
-#### Sources
+### Sources
 https://reactjs.org/docs/react-component.html
 
 https://reactjs.org/docs/state-and-lifecycle.html
